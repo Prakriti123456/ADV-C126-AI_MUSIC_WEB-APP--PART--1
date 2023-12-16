@@ -10,8 +10,8 @@ song1_status = "";
 song2_status = "";
 
 function preload() {
-    song = loadSound("music.mp3");
-    song1 = loadSound("music2.mp3");
+    song1 = loadSound("music.mp3");
+    song2 = loadSound("music2.mp3");
 }
 
 function setup() {
